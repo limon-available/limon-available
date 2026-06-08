@@ -6,9 +6,9 @@
 - 🔥 Building Multi Vendor Ecommerce Project
 
 ## 🛠️ Skills
-- Frontend: React, Tailwind CSS
+- Frontend: React,Next.js,Typescript, Tailwind CSS
 - Backend: Node.js, Express
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL,postgreSQL
 - Others: Firebase, Redux
 
 ## 📂 Projects
