@@ -74,6 +74,8 @@ Android application developed using Kotlin.
 
 Completed practical assignments and a capstone project that was reviewed and accepted.
 
+![Certificate](certificate.png)
+
 **Certificate Verification:** https://internship.flyrank.ai/verify/FR-D11-B1D73-E246F?first_name=Md
 
 ## Current Focus
